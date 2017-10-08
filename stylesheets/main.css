@@ -1,0 +1,168 @@
+*{
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.ui.masthead.segment{
+	min-height: 700px;
+	background-color: gray;
+	background-image: url(images/bg/low_contrast_linen.png);
+	background-repeat: repeat;
+}
+
+body{
+	background-image: url(images/bg/cream_pixels.png);
+	background-repeat: repeat;
+}
+.read, .ui.read.header{
+	margin: 20px;
+}
+
+.course.scrolling.image.content{
+	background-image: url(images/bg/geometry2.png);
+	background-repeat: repeat;
+}
+
+.ui.tab.segment{
+	background-image: url(images/bg/cream_pixels.png);
+	background-repeat: repeat;
+	padding: 2em;
+}
+
+.ui.tabular.menu{
+	background-color: rgba(154, 146, 146, 0.26);
+}
+
+.masthead h1.ui.header {
+    margin-top: 3em;
+    margin-bottom: 0em;
+    font-size: 4em;
+}
+.transparent_bg{
+	border-radius: 15px;
+	background-color: rgba(207, 207, 207, 0.22);
+}
+
+.big.address.card.icon{
+	font-size:  9em;
+	color: #2185d0;
+	margin: auto;
+}
+
+.ui.portfolio.blue.card{
+	padding: 1em;
+}
+
+@media only screen and (max-width: 767px){
+
+	.ui.padded.segment.vertical.segment{
+		padding: 1em;
+	}
+}
+
+.ui.vertical.stripe.segment{
+	background-image: url(images/bg/crossword.png);
+	background-repeat: repeat;
+	margin: 0em;
+}
+
+.portfolioex.description {
+	margin-bottom: 6px;
+}
+
+.exp.meta{
+	text-align: center;
+}
+
+.zoom:hover{
+	transform: scale(1.13);
+	transition: all 2.3s;
+}
+.ui.bottom.segment, .image{
+	overflow: hidden;
+}
+
+#hide{
+	display: none;
+}
+
+div.extra a div.ui.label{
+	margin-left: 1em;
+}
+
+.mod.image.content{
+	background-image: url(images/bg/cream_pixels.png);
+	background-repeat: repeat;
+	padding: 2em;
+}
+
+.ui.beg.vertical.stripe {
+    padding: 4em 0em;
+}
+
+.avi.meta{
+	display: inline; 
+	margin-right: 1em;
+}
+
+a{
+	color: #3ac0ff;
+}
+
+.cent.header{
+	text-align: center;
+}
+
+#timeline{
+	margin-top: 4em;
+	width: 80%;
+
+	background-image: url(images/bg/crossword.png);
+	background-repeat: repeat;
+}
+
+.ten.wide.column{
+	padding: 0;
+	margin: 0;
+}
+
+.ui.tiny.secondary.pointing.menu, .ui.blue.card{
+	background-image: url(images/bg/crossword.png);
+	background-repeat: repeat;
+}
+
+.ui.vertical.stripe h3 {
+    font-size: 3em;
+}
+
+.ui.vertical.stripe p {
+    font-size: 1.44em;
+    font-weight: normal;
+}
+
+.six.wide.right.floated.column{
+	margin: auto;
+}
+
+.eight.wide.column{
+	margin: auto;
+}
+
+.ui.section.divider.header{
+	margin: 2em 2em 5rem;
+}
+
+.ui.vertical.segment{
+	padding-top: 1em;
+}
+
+.ui.vertical.footer.segment{
+	margin-top: 2em;
+
+	background-image: url(images/bg/use_your_illusion.png);
+	background-repeat: repeat;
+}
+
+.ui.massive.blue.button{
+	margin: 5em 0em;
+}
